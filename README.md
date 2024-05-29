@@ -1,2 +1,2 @@
-# Crop-Yield-Prediction-And-Recommendation-Using-Machine-Learning-Algorithms
-This project is an advanced platform designed to assist farmers in making informed decisions about crop selection and cultivation. The platform helps farmers identify the most suitable crops to grow based on specific input parameters related to their unique farming conditions, helping them to optimize their yield and use resources more efficiently.
+# crop_yield_prediction_and_recommendation
+This project is all about predicting crop yield or recommend crops to farmer using ML
